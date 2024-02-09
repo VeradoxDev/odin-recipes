@@ -1,2 +1,3 @@
-The current project is to create links to recipes and images to the webpage. 
-I will demonstrate my ability to correctly create links to webpages, My ability to add an image to a webpage and correctly set its width and height to fit the page. 
+The current project is to create a webpage that links to different recipes and displays images and information about those recipes.
+
+Some of the skills I will be demonstrating in this project is the ability to link webpages together, link images, create unordered and ordered lists, headings and paragraphs.
